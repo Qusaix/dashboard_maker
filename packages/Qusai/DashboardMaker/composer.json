@@ -1,0 +1,13 @@
+{
+    "name": "qusai/dashboadmaker",
+    "description": "it's a package to help you create a full dashboard with few steps",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Qusai\\DashboardMaker\\": "src/"
+        }
+    },
+    "require": {}
+}

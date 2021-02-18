@@ -6,5 +6,5 @@ The goal of this project to make it so easy for developer to make an basic dashb
 - haveing a full employee system for the user from the start.
 
 ## License
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Dashboard Maker is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
